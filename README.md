@@ -1,4 +1,6 @@
 # Hi there! 👋 I'm Carlo Fabrizio
+![Tech Animation]([https://your-gif-url-here.gif](https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg1NTM1MDksIm5iZiI6MTcyODU1MzIwOSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEwVDA5NDAwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwYTE2Mjc0MjYwMjc4ZGM3MzUzZGZiNzliOWQxMTk2ZGYxNmQ5N2NjNzU0NmU4NzMwNDkyOTJjNjg2NTBjMGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.e2s1yS9mRVSSBt8fK8KrNKTSFtrh5O7mV2F6ZlytpCo))
+
 
 ## 🌟 About Me
 
@@ -7,6 +9,8 @@ I'm a **Computer Science and Engineering student at Politecnico di Milano**, wit
 - **Machine Learning & Deep Learning**
 - **Reinforcement Learning**
 - **Automation and Control**
+
+  
 I'm currently working on my Master's thesis related to **Distributed/Hierarchical Reinforcement Learning** for real-time network infrastructure control in the **AI4REALNET European Project**.
 
 
