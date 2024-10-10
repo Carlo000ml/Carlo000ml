@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Carlo Fabrizio
-![Tech Animation](https://media.giphy.com/media/BUbMgQBShZOcMPohgn/giphy.gif)
-
+<iframe src="https://giphy.com/embed/BUbMgQBShZOcMPohgn" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/trippy-abstract-pi-slices-BUbMgQBShZOcMPohgn">via GIPHY</a></p>
 
 
 ## 🌟 About Me
