@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Carlo Fabrizio
-![Tech Animation](https://media.giphy.com/media/BUbMgQBShZOcMPohgn/giphy.gif?cid=ecf05e474livsywws5u48jvnzx3r26psqz75v0yvd5pc1tvs&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Tech Animation](https://media.giphy.com/media/BUbMgQBShZOcMPohgn/giphy.gif)
 
 
 
