@@ -22,6 +22,8 @@ I'm currently working on my Master's thesis related to **Distributed/Hierarchica
   ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
   ![Cython](https://img.shields.io/badge/Cython-3776AB?style=for-the-badge&logo=cython&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
   
   
