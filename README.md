@@ -39,5 +39,5 @@ I'm currently working on my Master's thesis related to **Distributed/Hierarchica
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📫 Let's Connect
-- [Email](carlo.fabrizio@mail.polimi.it)
+- Email: carlo.fabrizio@mail.polimi.it
 
